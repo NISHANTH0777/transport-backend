@@ -1,0 +1,2285 @@
+{
+  "Jayanagar 4th Block": [
+    "BIAS12",
+    "V25A",
+    "BIAS5",
+    "V2",
+    "1",
+    "V2K"
+  ],
+  "Jayanagar 3rd Block": [
+    "BIAS12",
+    "V25A",
+    "BIAS5",
+    "V2",
+    "1",
+    "V2K"
+  ],
+  "Madhavan Park": [
+    "BIAS12",
+    "V25A",
+    "BIAS5",
+    "V2",
+    "1",
+    "V2K"
+  ],
+  "South End Circle": [
+    "V2",
+    "1",
+    "G5",
+    "V2K"
+  ],
+  "Shanthi Talkies": [
+    "1"
+  ],
+  "Nagasandra Circle": [
+    "1"
+  ],
+  "Nettakalappa Circle": [
+    "1"
+  ],
+  "Basavanagudi Police Station": [
+    "1",
+    "G5"
+  ],
+  "National College Basavanagudi": [
+    "1",
+    "G5"
+  ],
+  "Gandhi Bazaar": [
+    "1"
+  ],
+  "Ramakrishna Ashram": [
+    "VJ10",
+    "1"
+  ],
+  "Bangalore High School(Basavanagudi)": [
+    "VJ10",
+    "1"
+  ],
+  "Chamarajpet": [
+    "VJ10",
+    "1"
+  ],
+  "KIMS Hospital": [
+    "1",
+    "G5"
+  ],
+  "K R Market": [
+    "1",
+    "G5",
+    "G6"
+  ],
+  "Town Hall": [
+    "V25A",
+    "G6",
+    "G5",
+    "V2",
+    "1",
+    "V2K"
+  ],
+  "Corporation": [
+    "BIAS12",
+    "V25A",
+    "G6",
+    "G5",
+    "G10",
+    "BIAS1",
+    "V2",
+    "1",
+    "V2K"
+  ],
+  "Kaveri Bhavan": [
+    "BIAS12",
+    "V25A",
+    "BIAS1",
+    "V2",
+    "1",
+    "V2K"
+  ],
+  "K R Circle": [
+    "1"
+  ],
+  "Maharani's College": [
+    "BIAS12",
+    "1"
+  ],
+  "Vidhana Soudha": [
+    "1"
+  ],
+  "Telephone Exchange (Vidhana Soudha)": [
+    "1"
+  ],
+  "R C College": [
+    "1"
+  ],
+  "Race Course Road": [
+    "1",
+    "BIAS9"
+  ],
+  "Sivananda Stores": [
+    "BIAS12",
+    "1",
+    "BIAS9"
+  ],
+  "Swastik": [
+    "1"
+  ],
+  "Central Talkies": [
+    "V25A",
+    "1"
+  ],
+  "Sheshadripuram": [
+    "V25A",
+    "1"
+  ],
+  "Malleswaram Circle": [
+    "BIAS10",
+    "1",
+    "BIAS11",
+    "V25A"
+  ],
+  "Malleswaram 8th Cross": [
+    "BIAS10",
+    "1",
+    "BIAS11"
+  ],
+  "Malleswaram 11th Cross": [
+    "BIAS10",
+    "1",
+    "BIAS11"
+  ],
+  "Malleswaram 18th Cross": [
+    "BIAS10",
+    "1",
+    "BIAS11"
+  ],
+  "Tata Institute (IISc)": [
+    "G8",
+    "1"
+  ],
+  "Yeshwanthpur": [
+    "G8",
+    "1"
+  ],
+  "Shivajinagar": [
+    "BIAS7A",
+    "BIAS7",
+    "100"
+  ],
+  "Balekundri Circle/Indian Express": [
+    "G10",
+    "G9",
+    "100",
+    "G8",
+    "G11"
+  ],
+  "Cantonment Railway Station": [
+    "G11",
+    "BIAS7A",
+    "G10",
+    "BIAS4",
+    "BIAS6",
+    "G9",
+    "100",
+    "G8",
+    "BIAS7"
+  ],
+  "Vasanthanagar": [
+    "BIAS7A",
+    "BIAS7",
+    "100"
+  ],
+  "Palace Guttahalli": [
+    "BIAS12",
+    "100",
+    "BIAS9"
+  ],
+  "Cauvery Theater": [
+    "BIAS12",
+    "BIAS10",
+    "100",
+    "BIAS11",
+    "BIAS9"
+  ],
+  "Bashyam Circle (Sadashivanagar)": [
+    "BIAS10",
+    "BIAS11",
+    "100"
+  ],
+  "Sadashivanagar": [
+    "100"
+  ],
+  "Gottigere": [
+    "G4",
+    "BIAS1"
+  ],
+  "Meenakshi Temple": [
+    "G4",
+    "BIAS1"
+  ],
+  "Hulimavu Gate": [
+    "G4",
+    "BIAS1"
+  ],
+  "Arekere Gate": [
+    "G4",
+    "BIAS1"
+  ],
+  "Bilekahalli": [
+    "G4",
+    "BIAS1"
+  ],
+  "Dalmiya Circle (J P Nagar 3rd Phase)": [
+    "BIAS12",
+    "G4",
+    "V2K",
+    "BIAS1"
+  ],
+  "Gurappanapalya": [
+    "G4",
+    "BIAS1"
+  ],
+  "Bangalore Dairy": [
+    "G4",
+    "BIAS7",
+    "BIAS1"
+  ],
+  "NIMHANS": [
+    "BIAS7",
+    "BIAS1"
+  ],
+  "Wilson Garden 9th Cross": [
+    "BIAS7",
+    "BIAS1"
+  ],
+  "Wilson Garden Police Station": [
+    "BIAS7",
+    "BIAS1"
+  ],
+  "Shanthinagar Bus Station": [
+    "BIAS12",
+    "G6",
+    "BIAS5",
+    "BIAS1",
+    "BIAS7"
+  ],
+  "Majestic": [
+    "V25A",
+    "BIAS1",
+    "V2",
+    "G7",
+    "VJ10",
+    "V2K",
+    "BIAS9"
+  ],
+  "Windsor Manor": [
+    "BIAS12",
+    "BIAS9",
+    "BIAS5",
+    "BIAS1"
+  ],
+  "Mekhri Circle": [
+    "BIAS12",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "G9",
+    "G8",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Hebbal": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "G9",
+    "C1",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Military Dairy Farm Gate": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "G9",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Byatarayanapura (Bellary Road)": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "G9",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Kogilu Cross": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Venkatala": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "IAF": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Hunasemaranahalli": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Bettahalasur Cross": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Vidyanagara Cross": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Chikkajala": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Bangalore Turf Club (Bellary Road)": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Sadahalli Cross": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Bangalore International Airport Trumpet Interchange": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Bengaluru International Airport": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS1",
+    "BIAS6",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "MCTC Mysore Road Bus Station": [
+    "BIAS10",
+    "G6"
+  ],
+  "Bapujinagar": [
+    "BIAS10",
+    "G6"
+  ],
+  "Deepanjalinagar": [
+    "BIAS10",
+    "BIAS11",
+    "G6"
+  ],
+  "Attiguppe": [
+    "BIAS10",
+    "BIAS11"
+  ],
+  "Vijayanagar BMTC Depot": [
+    "BIAS10",
+    "BIAS11"
+  ],
+  "Vijayanagar Maruti Mandir": [
+    "BIAS10",
+    "BIAS11"
+  ],
+  "Vijayanagar": [
+    "BIAS10",
+    "BIAS11"
+  ],
+  "Magadi Road Dasarahalli": [
+    "BIAS10",
+    "G7"
+  ],
+  "KHB Colony": [
+    "BIAS10",
+    "G7"
+  ],
+  "Basaveshwaranagar": [
+    "BIAS10",
+    "V25A"
+  ],
+  "Havanur Circle": [
+    "BIAS10",
+    "V25A"
+  ],
+  "Kamalanagar Water Tank": [
+    "BIAS10",
+    "V25A"
+  ],
+  "Shankara Mutt (Basaveshwaranagar)": [
+    "BIAS10",
+    "V25A"
+  ],
+  "Modi Eye Hospital": [
+    "BIAS10",
+    "V25A"
+  ],
+  "Navarang Talkies": [
+    "BIAS10",
+    "BIAS11",
+    "V25A"
+  ],
+  "Srirampuram Harishchandra Ghat": [
+    "BIAS10",
+    "BIAS11",
+    "V25A"
+  ],
+  "Devaiah Park": [
+    "BIAS10",
+    "BIAS11",
+    "V25A"
+  ],
+  "K C General Hospital": [
+    "BIAS10",
+    "BIAS11",
+    "V25A"
+  ],
+  "IAF Training School": [
+    "BIAS12",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS6",
+    "G9",
+    "BIAS10",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Ganganagar": [
+    "BIAS12",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS6",
+    "G9",
+    "BIAS10",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "CBI": [
+    "BIAS12",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS6",
+    "G9",
+    "BIAS10",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Veterinary College": [
+    "BIAS12",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS6",
+    "G9",
+    "BIAS10",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Anandanagar": [
+    "BIAS12",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS6",
+    "G9",
+    "BIAS10",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Kodigehalli Gate (Bellary Road)": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS6",
+    "G9",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Jakkur": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS6",
+    "G9",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Allalasandra": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS6",
+    "G9",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Yelahanka Police Station": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS6",
+    "G9",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Yelahanka": [
+    "BIAS12",
+    "BIAS8",
+    "BIAS5",
+    "BIAS7A",
+    "BIAS4",
+    "BIAS6",
+    "BIAS10",
+    "BIAS8A",
+    "BIAS11",
+    "BIAS7",
+    "BIAS9"
+  ],
+  "Chikkalasandra": [
+    "BIAS11"
+  ],
+  "Chikkalasandra Arali Mara": [
+    "BIAS11"
+  ],
+  "Gaudanapalya": [
+    "BIAS11"
+  ],
+  "Devegowda Petrol Bunk": [
+    "BIAS11"
+  ],
+  "Kamakhya Theater": [
+    "BIAS11"
+  ],
+  "Katriguppe": [
+    "BIAS11"
+  ],
+  "Katriguppe Janata Bazaar": [
+    "BIAS11"
+  ],
+  "Hosakerehalli Cross": [
+    "BIAS11"
+  ],
+  "Hosakerehalli Petrol Bunk": [
+    "BIAS11"
+  ],
+  "PES Institute of Technology": [
+    "BIAS11"
+  ],
+  "Veerabhadranagar": [
+    "BIAS11"
+  ],
+  "Pantarapalya": [
+    "BIAS11",
+    "G6"
+  ],
+  "BHEL Gate (Mysore Road)": [
+    "BIAS11",
+    "G6"
+  ],
+  "Magadi Road Toll Gate": [
+    "G7",
+    "BIAS11"
+  ],
+  "Rajajinagar Industrial Town": [
+    "BIAS11"
+  ],
+  "Rajajinagar EPH": [
+    "BIAS11"
+  ],
+  "Manjunathanagar (Rajajinagar)": [
+    "BIAS11"
+  ],
+  "Kuvempunagar (BTM Layout)": [
+    "BIAS12",
+    "V25A",
+    "BIAS8A",
+    "C1"
+  ],
+  "Udupi Garden/BTM Layout 16th Main": [
+    "BIAS12",
+    "V25A",
+    "C1"
+  ],
+  "BTM Layout Water Tank": [
+    "BIAS12",
+    "V25A",
+    "C1"
+  ],
+  "MICO Layout": [
+    "BIAS12",
+    "V25A",
+    "C1"
+  ],
+  "Jayadeva Hospital": [
+    "BIAS12",
+    "V25A",
+    "G4",
+    "C1"
+  ],
+  "Jayanagar Pump House": [
+    "BIAS12",
+    "V25A"
+  ],
+  "Sanjay Gandhi Hospital (Old)": [
+    "BIAS12",
+    "V25A"
+  ],
+  "Church (Jayanagar 4th Block)": [
+    "BIAS12",
+    "V25A"
+  ],
+  "Jayanagar 1st Block": [
+    "BIAS12",
+    "V25A",
+    "BIAS5"
+  ],
+  "Ashoka Pillar": [
+    "BIAS12",
+    "V25A",
+    "BIAS5"
+  ],
+  "Siddapura (Ashoka Pillar)": [
+    "BIAS12"
+  ],
+  "Mallige Hospital": [
+    "BIAS12"
+  ],
+  "Double Road": [
+    "BIAS12",
+    "BIAS7",
+    "BIAS5",
+    "G6"
+  ],
+  "Kanteerava Stadium": [
+    "BIAS12",
+    "G10",
+    "G6"
+  ],
+  "Kumara Park West": [
+    "BIAS12"
+  ],
+  "HAL Main Gate": [
+    "G1",
+    "BIAS4",
+    "BIAS6"
+  ],
+  "HAL ESI Hospital": [
+    "BIAS4"
+  ],
+  "Nallurupura Cross": [
+    "BIAS4"
+  ],
+  "BEML Gate": [
+    "BIAS4"
+  ],
+  "HAL 3rd Stage": [
+    "BIAS4"
+  ],
+  "Thippasandra Market (Indiranagar)": [
+    "BIAS4"
+  ],
+  "Thippasandra (Indiranagar)": [
+    "BIAS4"
+  ],
+  "Chinmaya Mission Hospital": [
+    "BIAS4"
+  ],
+  "Indiranagar Police Station": [
+    "BIAS4"
+  ],
+  "Lakshmipura (Halasuru)": [
+    "BIAS4"
+  ],
+  "Halasuru": [
+    "BIAS4",
+    "G12"
+  ],
+  "Trinity Circle": [
+    "BIAS7A",
+    "BIAS4",
+    "G12",
+    "BIAS6",
+    "G1",
+    "G3"
+  ],
+  "Hasanath Women's College": [
+    "BIAS4",
+    "BIAS6"
+  ],
+  "Ajanta Talkies": [
+    "BIAS4",
+    "BIAS6"
+  ],
+  "Lakeside Hospital": [
+    "BIAS4",
+    "BIAS6"
+  ],
+  "Coles Park": [
+    "G11",
+    "G10",
+    "BIAS4",
+    "BIAS6"
+  ],
+  "Jayamahal": [
+    "BIAS7A",
+    "BIAS4",
+    "BIAS6",
+    "G9",
+    "G8",
+    "BIAS7"
+  ],
+  "J C Nagar": [
+    "G9",
+    "G8",
+    "BIAS4",
+    "BIAS6"
+  ],
+  "TV Tower": [
+    "G9",
+    "G8",
+    "BIAS4",
+    "BIAS6"
+  ],
+  "J P Nagar 6th Phase": [
+    "V2",
+    "BIAS5"
+  ],
+  "SSMRV College": [
+    "V2",
+    "BIAS5",
+    "V2K"
+  ],
+  "Aurobindo Circle (J P Nagar)": [
+    "V2",
+    "V2K",
+    "BIAS5",
+    "C1"
+  ],
+  "Richmond Circle(Towards Mayohall)": [
+    "BIAS7",
+    "BIAS5"
+  ],
+  "M G Road (Anil Kumble Circle)": [
+    "BIAS7",
+    "BIAS5"
+  ],
+  "Indian Express/Balekundri Circle": [
+    "BIAS7A",
+    "BIAS7",
+    "BIAS5"
+  ],
+  "Kadugodi": [
+    "G1",
+    "BIAS6"
+  ],
+  "Hope Farm": [
+    "G1",
+    "BIAS6"
+  ],
+  "Whitefield Club": [
+    "G1",
+    "BIAS6"
+  ],
+  "Whitefield Post Office": [
+    "G1",
+    "BIAS6"
+  ],
+  "Varthur Kodi": [
+    "G1",
+    "BIAS6"
+  ],
+  "Ramagondanahalli (Varthur Road)": [
+    "G1",
+    "BIAS6"
+  ],
+  "Siddapura (Varthur Road)": [
+    "G1",
+    "BIAS6"
+  ],
+  "Tubarahalli": [
+    "G1",
+    "BIAS6"
+  ],
+  "Kundalahalli Gate": [
+    "G1",
+    "BIAS6"
+  ],
+  "Munnekolalu Cross": [
+    "G1",
+    "BIAS6"
+  ],
+  "Marathahalli Bridge": [
+    "BIAS8",
+    "BIAS6",
+    "C1",
+    "G1",
+    "BIAS8A"
+  ],
+  "Marathahalli": [
+    "G1",
+    "BIAS6"
+  ],
+  "HAL Kalyana Mantapa": [
+    "G1",
+    "BIAS6"
+  ],
+  "Vimanapura": [
+    "G1",
+    "BIAS6"
+  ],
+  "Konena Agrahara": [
+    "G1",
+    "BIAS6"
+  ],
+  "Murugeshpalya": [
+    "G1",
+    "BIAS6"
+  ],
+  "Manipal Hospital": [
+    "G1",
+    "BIAS6"
+  ],
+  "Kodihalli (Old Airport Road)": [
+    "G1",
+    "BIAS6"
+  ],
+  "Diamond District": [
+    "G1",
+    "BIAS6"
+  ],
+  "Domlur": [
+    "BIAS7A",
+    "G1",
+    "BIAS6"
+  ],
+  "Command Hospital": [
+    "BIAS7A",
+    "G1",
+    "BIAS6"
+  ],
+  "HSR Layout BDA Complex": [
+    "BIAS8",
+    "BIAS7A",
+    "C1",
+    "BIAS8A",
+    "BIAS7"
+  ],
+  "Jakkasandra": [
+    "BIAS7A",
+    "G3",
+    "BIAS7"
+  ],
+  "Koramangala": [
+    "BIAS7A",
+    "G3",
+    "BIAS7"
+  ],
+  "John Fowler": [
+    "BIAS7"
+  ],
+  "Koramangala Water Tank": [
+    "BIAS7A",
+    "G2",
+    "BIAS7"
+  ],
+  "St John's Hospital": [
+    "G2",
+    "BIAS7"
+  ],
+  "Forum/Madiwala Checkpost": [
+    "G2",
+    "BIAS7"
+  ],
+  "Lakkasandra": [
+    "BIAS7"
+  ],
+  "Bangalore Club": [
+    "BIAS7"
+  ],
+  "St Mark's Road": [
+    "BIAS7"
+  ],
+  "Koramangala 3rd Block": [
+    "BIAS7A"
+  ],
+  "Koramangala Sony World": [
+    "BIAS7A",
+    "G3"
+  ],
+  "Inner Ring Road Dell": [
+    "BIAS7A"
+  ],
+  "Parade Ground": [
+    "BIAS7A",
+    "G8",
+    "G9"
+  ],
+  "Electronic City": [
+    "BIAS8",
+    "G2"
+  ],
+  "Konappana Agrahara": [
+    "BIAS8",
+    "G2"
+  ],
+  "PES School of Engineering (Hosur Road)": [
+    "BIAS8",
+    "G2"
+  ],
+  "Hosa Road": [
+    "BIAS8",
+    "G2"
+  ],
+  "Singasandra": [
+    "BIAS8",
+    "G2"
+  ],
+  "Kudlu Gate": [
+    "BIAS8",
+    "G2"
+  ],
+  "Garebhavipalya": [
+    "BIAS8",
+    "G2"
+  ],
+  "Bommanahalli": [
+    "BIAS8",
+    "G2"
+  ],
+  "Rupena Agrahara": [
+    "BIAS8",
+    "G2"
+  ],
+  "Central Silk Board": [
+    "BIAS8",
+    "BIAS8A",
+    "C1",
+    "G2"
+  ],
+  "HSR Layout SI Apartment": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Agara BMTC Depot": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Agara (Sarjapur Road)": [
+    "BIAS8",
+    "BIAS8A",
+    "C1",
+    "G3"
+  ],
+  "Iblur": [
+    "BIAS8",
+    "BIAS8A",
+    "C1",
+    "G3"
+  ],
+  "Bellandur": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Devarabisanahalli": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "New Horizon College": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Kadabisanahalli": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Innovative Multiplex": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Channappanahalli": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Doddanekkundi": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Mahadevapura": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Mahadevapura Cross": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "K R Puram Railway Station": [
+    "BIAS8",
+    "BIAS8A",
+    "C1",
+    "G12"
+  ],
+  "Tin Factory": [
+    "BIAS8",
+    "BIAS8A",
+    "C1",
+    "G12"
+  ],
+  "Kasturinagar Cross": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "B Channasandra": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Ramamurthynagar Underpass": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Babusabpalya": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Kalyananagar (HRBR Layout 2nd Block)": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "HRBR Layout 3rd Block": [
+    "G11",
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "HBR Layout 3rd Block": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "HBR Layout 4th Block": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "HBR Layout 5th Block": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Nagavara": [
+    "G10",
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Veerannanapalya": [
+    "BIAS8",
+    "BIAS8A",
+    "C1"
+  ],
+  "Anand Rao Circle": [
+    "BIAS9"
+  ],
+  "Bangalore Golf Course": [
+    "BIAS9"
+  ],
+  "Banashankari": [
+    "G5",
+    "C1"
+  ],
+  "Sangam Circle": [
+    "C1"
+  ],
+  "Jayanagar 5th Block": [
+    "C1"
+  ],
+  "Ragigudda": [
+    "C1"
+  ],
+  "Jayanagar 9th Block East End": [
+    "V25A",
+    "C1"
+  ],
+  "K R Puram": [
+    "G12",
+    "FDR1"
+  ],
+  "Bhattarahalli": [
+    "FDR1"
+  ],
+  "Medahalli": [
+    "FDR1"
+  ],
+  "Budigere Cross": [
+    "FDR1"
+  ],
+  "Hosakote Kodi": [
+    "FDR1"
+  ],
+  "Hosakote High School": [
+    "FDR1"
+  ],
+  "Hosakote": [
+    "FDR1"
+  ],
+  "Kumbalahalli Gate": [
+    "FDR1"
+  ],
+  "Halappanahalli": [
+    "FDR1"
+  ],
+  "Lakkondanahalli (Hosakote)": [
+    "FDR1"
+  ],
+  "Avalahallli(Hoskote)": [
+    "FDR1"
+  ],
+  "Vabsandra(Hoskote)": [
+    "FDR1"
+  ],
+  "Govardhan Theater": [
+    "G8",
+    "FDR2"
+  ],
+  "Suryodaya Mill": [
+    "FDR2"
+  ],
+  "C.M.T.I(Tumkur Road)": [
+    "FDR2"
+  ],
+  "Jalahalli Cross": [
+    "G8",
+    "FDR2"
+  ],
+  "Bagalgunte Cross": [
+    "FDR2"
+  ],
+  "Janapriya Apartment": [
+    "FDR2"
+  ],
+  "Chikkabanavara": [
+    "FDR2"
+  ],
+  "Soladevanahalli Police Station": [
+    "FDR2"
+  ],
+  "Huralichikkanahalli Gate": [
+    "FDR2"
+  ],
+  "Hesaraghatta Cross": [
+    "FDR2"
+  ],
+  "Hesaraghatta": [
+    "FDR2"
+  ],
+  "Mayo Hall": [
+    "G1",
+    "G3"
+  ],
+  "Military Accounts Office": [
+    "G1"
+  ],
+  "Visvesvaraya Museum": [
+    "G10"
+  ],
+  "Chinnaswami Stadium": [
+    "G10"
+  ],
+  "GPO": [
+    "G9",
+    "G8",
+    "G10"
+  ],
+  "CSI Hospital": [
+    "G11",
+    "G10"
+  ],
+  "Bamboo Bazaar": [
+    "G11",
+    "G10"
+  ],
+  "Fraser Town Post Office": [
+    "G11",
+    "G10"
+  ],
+  "Slaughter House": [
+    "G10"
+  ],
+  "Muslim Colony": [
+    "G10"
+  ],
+  "P&T Colony": [
+    "G10"
+  ],
+  "Venkateshpuram": [
+    "G10"
+  ],
+  "Kadugondanahalli": [
+    "G10"
+  ],
+  "Hidayath Nagar": [
+    "G10"
+  ],
+  "Arabic College": [
+    "G10"
+  ],
+  "Govindapura Cross (Nagavara)": [
+    "G10"
+  ],
+  "Ashwathnagar Telecom Layout (Nagavara)": [
+    "G10"
+  ],
+  "Thanisandra": [
+    "G10"
+  ],
+  "Railwaymen Layout": [
+    "G10"
+  ],
+  "K Narayanapura Cross": [
+    "G10"
+  ],
+  "Shabari Nagar Cross": [
+    "G10"
+  ],
+  "Ramakrishna Hegde Nagar": [
+    "G10"
+  ],
+  "Bagalur(Bellary Road)": [
+    "G11"
+  ],
+  "Chakkalatti": [
+    "G11"
+  ],
+  "Tavakkal Mosque": [
+    "G11"
+  ],
+  "Hosur Bande": [
+    "G11"
+  ],
+  "Kadasonnappanahalli": [
+    "G11"
+  ],
+  "Kannur": [
+    "G11"
+  ],
+  "Byrthi Bande": [
+    "G11"
+  ],
+  "Bible College": [
+    "G11"
+  ],
+  "Gubbi Cross": [
+    "G11"
+  ],
+  "Kothanur (Hennur)": [
+    "G11"
+  ],
+  "Byrthi Cross": [
+    "G11"
+  ],
+  "Geddalahalli (Hennur)": [
+    "G11"
+  ],
+  "Hennur": [
+    "G11"
+  ],
+  "Hennur Bande": [
+    "G11"
+  ],
+  "Hennur Cross": [
+    "G11"
+  ],
+  "Kacharakanahalli": [
+    "G11"
+  ],
+  "St Thomas Town": [
+    "G11"
+  ],
+  "Jyothi School": [
+    "G11"
+  ],
+  "Lingarajapura": [
+    "G11"
+  ],
+  "Hennur Main Road": [
+    "G11"
+  ],
+  "Cooke Town": [
+    "G11"
+  ],
+  "Clarence School": [
+    "G11"
+  ],
+  "Murphy Town": [
+    "G12"
+  ],
+  "Indiranagar BMTC Depot": [
+    "G12"
+  ],
+  "Isolation Hospital": [
+    "G12"
+  ],
+  "Binnamangala (Old Madras Road)": [
+    "G12"
+  ],
+  "NGEF": [
+    "G12"
+  ],
+  "Suddaguntepalya Cross": [
+    "G12"
+  ],
+  "Benniganahalli": [
+    "G12"
+  ],
+  "Duravani Nagar": [
+    "G12"
+  ],
+  "ITI Colony (K R Puram)": [
+    "G12"
+  ],
+  "Brigade Road Junction": [
+    "G4",
+    "G2"
+  ],
+  "Johnson Market": [
+    "G4",
+    "G2"
+  ],
+  "Baldwin Boys High School": [
+    "G4",
+    "G2"
+  ],
+  "Langford Town": [
+    "G4",
+    "G2"
+  ],
+  "Gajendranagar Cross": [
+    "G4",
+    "G2"
+  ],
+  "Adugodi": [
+    "G2"
+  ],
+  "Adugodi Police Quarters": [
+    "G2"
+  ],
+  "Madiwala Police Station": [
+    "G2"
+  ],
+  "Electronic City State Bank": [
+    "G2"
+  ],
+  "Electronic City Infosys Gate": [
+    "G2"
+  ],
+  "Electronic City Wipro Gate": [
+    "G2"
+  ],
+  "Electric B Station (M G Road)": [
+    "G3"
+  ],
+  "Victoria Layout": [
+    "G3"
+  ],
+  "Lower Agaram Road": [
+    "G3"
+  ],
+  "Vannarpet": [
+    "G3"
+  ],
+  "Viveknagar": [
+    "G3"
+  ],
+  "National Games Village": [
+    "G3"
+  ],
+  "Koramangala BMTC Depot": [
+    "G3"
+  ],
+  "Koramangala Cambridge Public School": [
+    "G3"
+  ],
+  "Shinivagilu Main Road": [
+    "G3"
+  ],
+  "Bellandur Gate": [
+    "G3"
+  ],
+  "Kaikondrahalli": [
+    "G3"
+  ],
+  "Mori Gate": [
+    "G3"
+  ],
+  "Kannalli": [
+    "G3"
+  ],
+  "Carmelaram Railway Gate": [
+    "G3"
+  ],
+  "Ambedkarnagar (Sarjapur Road)": [
+    "G3"
+  ],
+  "Kodathi Gate": [
+    "G3"
+  ],
+  "Muthanallur Cross": [
+    "G3"
+  ],
+  "Dommasandra Circle": [
+    "G3"
+  ],
+  "Dommasandra": [
+    "G3"
+  ],
+  "Yamare": [
+    "G3"
+  ],
+  "Sompura Gate": [
+    "G3"
+  ],
+  "Sarjapur": [
+    "G3"
+  ],
+  "St Patrick Church": [
+    "G4"
+  ],
+  "MICO": [
+    "G4"
+  ],
+  "Marble Factories (Bannerghatta Road)": [
+    "G4"
+  ],
+  "Sagar Apollo Hospital": [
+    "G4"
+  ],
+  "IIM Bangalore": [
+    "G4"
+  ],
+  "Honeywell (Bannerghatta Road)": [
+    "G4"
+  ],
+  "Loyola School (Bannerghatta Road)": [
+    "G4"
+  ],
+  "Kalena Agrahara": [
+    "G4"
+  ],
+  "Basavanapura Gate": [
+    "G4"
+  ],
+  "Koli Farm Gate": [
+    "G4"
+  ],
+  "Kalkere (Bannerghatta)": [
+    "G4"
+  ],
+  "AMC College (Bannerghatta)": [
+    "G4"
+  ],
+  "Bannerghatta Circle": [
+    "G4"
+  ],
+  "Bannerghatta National Park": [
+    "G4"
+  ],
+  "Mahila Seva Samaja/Sajjan Rao Circle": [
+    "G5"
+  ],
+  "Gunasheela Hospital": [
+    "G5"
+  ],
+  "Nanda Talkies": [
+    "G5"
+  ],
+  "Jayanagar 6th Block": [
+    "G5"
+  ],
+  "Yediyur": [
+    "G5"
+  ],
+  "Deepak Nursing Home": [
+    "G5"
+  ],
+  "Hunase Mara (Banashankari)": [
+    "G5"
+  ],
+  "Sarakki Gate": [
+    "G5"
+  ],
+  "Ilyasnagar": [
+    "G5"
+  ],
+  "Jaraganahalli": [
+    "G5"
+  ],
+  "Yalachenahalli": [
+    "G5"
+  ],
+  "Metro Mall (Kanakapura Road)": [
+    "G5"
+  ],
+  "Konanakunte Cross": [
+    "G5"
+  ],
+  "Doddakallasandra": [
+    "G5"
+  ],
+  "Gubbalala Cross": [
+    "G5"
+  ],
+  "Raghuvanahalli": [
+    "G5"
+  ],
+  "Thalaghattapura": [
+    "G5"
+  ],
+  "Jyothi Farm": [
+    "G5"
+  ],
+  "Agara Gate (Kanakapura Road)": [
+    "G5"
+  ],
+  "Tataguni Estate": [
+    "G5"
+  ],
+  "Kuppareddykere": [
+    "G5"
+  ],
+  "Art of Living Ashram": [
+    "G5"
+  ],
+  "Saladoddi": [
+    "G5"
+  ],
+  "Udayapalya": [
+    "G5"
+  ],
+  "Kaggalipura": [
+    "G5"
+  ],
+  "Kengeri Housing Board Quarters": [
+    "G6"
+  ],
+  "Shirke Apartment": [
+    "G6"
+  ],
+  "Kengeri Satellite Town Church": [
+    "G6"
+  ],
+  "Kengeri Satellite Town": [
+    "G6"
+  ],
+  "Kengeri Syndicate Bank": [
+    "G6"
+  ],
+  "Kengeri Railway Station": [
+    "G6"
+  ],
+  "Kengeri Post Office": [
+    "G6"
+  ],
+  "Kengeri Ganesha Temple": [
+    "G6"
+  ],
+  "Kengeri": [
+    "G6"
+  ],
+  "Mylasandra (Kengeri)": [
+    "G6"
+  ],
+  "R V College of Engineering": [
+    "G6"
+  ],
+  "Indian Statistical Institute": [
+    "G6"
+  ],
+  "Bangalore University Gate": [
+    "G6"
+  ],
+  "Rajarajeshwarinagar Gate": [
+    "G6"
+  ],
+  "Nayandahalli": [
+    "G6"
+  ],
+  "New Guddadahalli": [
+    "G6"
+  ],
+  "Valmikinagar": [
+    "G6"
+  ],
+  "Sirsi Circle": [
+    "G6"
+  ],
+  "Mysore Road Flyover": [
+    "VJ10",
+    "G6"
+  ],
+  "City Railway Station": [
+    "G7"
+  ],
+  "Okalipuram": [
+    "G7"
+  ],
+  "Sujatha Talkies": [
+    "G7"
+  ],
+  "Minerva Mill": [
+    "G7"
+  ],
+  "Leprosarium": [
+    "G7"
+  ],
+  "Magadi Road 5th Cross": [
+    "G7"
+  ],
+  "Prasanna Talkies": [
+    "G7"
+  ],
+  "Kamakshipalya": [
+    "G7"
+  ],
+  "Sumanahalli": [
+    "G7"
+  ],
+  "Kottigepalya": [
+    "G7"
+  ],
+  "Sunkadakatte": [
+    "G7"
+  ],
+  "Herohalli Cross": [
+    "G7"
+  ],
+  "Anjananagar": [
+    "G7"
+  ],
+  "Byadarahalli": [
+    "G7"
+  ],
+  "Gollarahatti": [
+    "G7"
+  ],
+  "Nelamangala": [
+    "G8"
+  ],
+  "Nelamangala Janapriya Apartment": [
+    "G8"
+  ],
+  "Binnamangala (Tumkur Road)": [
+    "G8"
+  ],
+  "Arisinakunte": [
+    "G8"
+  ],
+  "Devayyanapalya": [
+    "G8"
+  ],
+  "Dasanapura": [
+    "G8"
+  ],
+  "Adakamaranahalli": [
+    "G8"
+  ],
+  "Makali": [
+    "G8"
+  ],
+  "Madanayakanahalli": [
+    "G8"
+  ],
+  "TCI (Tumkur Road)": [
+    "G8"
+  ],
+  "Madavara": [
+    "G8"
+  ],
+  "Bangalore International Exhibition Centre": [
+    "G8"
+  ],
+  "Anchepalya (Tumkur Road)": [
+    "G8"
+  ],
+  "Jindal Factory": [
+    "G8"
+  ],
+  "Chikkabidarakallu": [
+    "G8"
+  ],
+  "Morrison Factory": [
+    "G8"
+  ],
+  "Widia Factory": [
+    "G8"
+  ],
+  "Tumkur Road 8th Mile": [
+    "G8"
+  ],
+  "Dasarahalli (Tumkur Road)": [
+    "G8"
+  ],
+  "Peenya 1st Stage": [
+    "G8"
+  ],
+  "Goraguntepalya": [
+    "G8"
+  ],
+  "MEI Factory": [
+    "G8"
+  ],
+  "Sadashivanagar Police Station": [
+    "G8"
+  ],
+  "CPRI": [
+    "G8"
+  ],
+  "Raman Research Institute": [
+    "G8"
+  ],
+  "Yelahanka Satellite Town 5th Phase": [
+    "G9"
+  ],
+  "Yelahanka Satellite Town Government School": [
+    "G9"
+  ],
+  "Yelahanka Dairy Circle": [
+    "G9"
+  ],
+  "Yelahanka Satellite Town": [
+    "G9"
+  ],
+  "Chikkabommasandra": [
+    "G9"
+  ],
+  "Sharavathi Hotel (Yelahanka)": [
+    "G9"
+  ],
+  "Yelahanka 13th Main Road": [
+    "G9"
+  ],
+  "Yelahanka NES Office": [
+    "G9"
+  ],
+  "WHITEFIELD STN.": [
+    "LR214",
+    "LR526",
+    "LR101",
+    "LR6521",
+    "LR7209",
+    "LR6519",
+    "LR2610",
+    "LR530",
+    "LR2609",
+    "LR102",
+    "LR6222"
+  ],
+  "K R PURAM STN.": [
+    "LR214",
+    "LR526",
+    "LR101",
+    "LR6521",
+    "LR7209",
+    "LR6519",
+    "LR2640",
+    "LR2610",
+    "LR530",
+    "LR2609",
+    "LR102",
+    "LR6222"
+  ],
+  "BYAPPANAHALLI STN.": [
+    "LR214",
+    "LR526",
+    "LR101",
+    "LR571",
+    "LR551",
+    "LR6519",
+    "LR572",
+    "LR530",
+    "LR102"
+  ],
+  "BANGALORE EAST STN.": [
+    "LR214",
+    "LR526",
+    "LR101",
+    "LR571",
+    "LR551",
+    "LR6521",
+    "LR6519",
+    "LR572",
+    "LR6731",
+    "LR530",
+    "LR2609",
+    "LR102",
+    "LR6222"
+  ],
+  "CANTONMENT STN.": [
+    "LR2786",
+    "LR2640",
+    "LR2609",
+    "LR6222",
+    "LR101",
+    "LR6521",
+    "LR6519",
+    "LR2610",
+    "LR530",
+    "LR2677",
+    "LR526",
+    "LR571",
+    "LR551",
+    "LR7209",
+    "LR572",
+    "LR2678",
+    "LR102",
+    "LR214",
+    "LR6232",
+    "LR6731"
+  ],
+  "BANGALORE CITY STN.": [
+    "LR2786",
+    "LR2640",
+    "LR236",
+    "LR234",
+    "LR2609",
+    "LR6222",
+    "LR230",
+    "LR101",
+    "LR6521",
+    "LR6519",
+    "LR6216",
+    "LR2610",
+    "LR530",
+    "LR2677",
+    "LR526",
+    "LR571",
+    "LR551",
+    "LR7209",
+    "LR572",
+    "LR2678",
+    "LR102",
+    "LR214",
+    "LR232",
+    "LR7304",
+    "LR6232",
+    "LR6731",
+    "LR238"
+  ],
+  "KENGERI STN.": [
+    "LR214",
+    "LR232",
+    "LR234",
+    "LR230",
+    "LR7304",
+    "LR6232",
+    "LR6731",
+    "LR6216",
+    "LR236",
+    "LR6222",
+    "LR238"
+  ],
+  "BIDADI STN.": [
+    "LR214",
+    "LR232",
+    "LR234",
+    "LR230",
+    "LR7304",
+    "LR6731",
+    "LR6216",
+    "LR236",
+    "LR6222",
+    "LR238"
+  ],
+  "NAYANDAHALLI STN.": [
+    "LR232",
+    "LR234",
+    "LR230",
+    "LR236",
+    "LR238"
+  ],
+  "GNANA BHARATI STN.": [
+    "LR232",
+    "LR238",
+    "LR234"
+  ],
+  "HEIJALA STN.": [
+    "LR236",
+    "LR232",
+    "LR238",
+    "LR234"
+  ],
+  "KARMELARAM STN.": [
+    "LRYH1",
+    "LRYH2",
+    "LR6527",
+    "LR2677",
+    "LR574",
+    "LR571",
+    "LRHY1",
+    "LR6232",
+    "LR6731",
+    "LR572",
+    "LRHY2",
+    "LR2678",
+    "LR573"
+  ],
+  "YELAHANKA STN.": [
+    "LR433",
+    "LR2786",
+    "LR551",
+    "LRYD1",
+    "LR434"
+  ],
+  "YESWANTAPUR STN.": [
+    "LR433",
+    "LRYH1",
+    "LRYH2",
+    "LR6527",
+    "LR7304",
+    "LR574",
+    "LRHY1",
+    "LRHY2",
+    "LRYD1",
+    "LR573",
+    "LR434"
+  ],
+  "KODIGEHALLI STN.": [
+    "LR434",
+    "LRYD1",
+    "LR433"
+  ],
+  "LOTTEGOLLAHALLI STN.": [
+    "LRYH1",
+    "LRYH2",
+    "LRHY2",
+    "LRHY1",
+    "LR574",
+    "LRYD1",
+    "LR573",
+    "LR434"
+  ],
+  "CHENNASANDRA STN.": [
+    "LR551"
+  ],
+  "BETTA HASOOR STN.": [
+    "LR551",
+    "LRYD1"
+  ],
+  "DODJALA STN.": [
+    "LR551",
+    "LRYD1"
+  ],
+  "DEVANAHALLI STN.": [
+    "LR551",
+    "LRYD1"
+  ],
+  "ANEKAL ROAD STN.": [
+    "LRYH1",
+    "LRYH2",
+    "LR574",
+    "LR571",
+    "LRHY1",
+    "LRHY2",
+    "LR572",
+    "LR573"
+  ],
+  "HEELALIGE STN.": [
+    "LRYH1",
+    "LRYH2",
+    "LR574",
+    "LR571",
+    "LRHY1",
+    "LRHY2",
+    "LR572",
+    "LR573"
+  ],
+  "BELLANDUR RD STN.": [
+    "LRYH1",
+    "LRYH2",
+    "LR574",
+    "LR571",
+    "LRHY1",
+    "LRHY2",
+    "LR572",
+    "LR573"
+  ],
+  "BANASWADI STN.": [
+    "LRYH1",
+    "LRYH2",
+    "LR6527",
+    "LRHY2",
+    "LRHY1",
+    "LR574",
+    "LR573"
+  ],
+  "HEBBAL STN.": [
+    "LRYH1",
+    "LRYH2",
+    "LRHY2",
+    "LRHY1",
+    "LR574",
+    "LR573"
+  ],
+  "J C Road": [
+    "V2",
+    "V2K",
+    "V25A"
+  ],
+  "Urvashi Talkies": [
+    "V2",
+    "V2K",
+    "V25A"
+  ],
+  "Lalbagh Main Gate (towards Shantinagar)": [
+    "V2",
+    "V2K",
+    "V25A"
+  ],
+  "Minerva Circle": [
+    "V2",
+    "V2K",
+    "V25A"
+  ],
+  "Lalbagh West Gate (from South End)": [
+    "V2",
+    "V2K",
+    "V25A"
+  ],
+  "Teachers College": [
+    "V2",
+    "V2K",
+    "V25A"
+  ],
+  "Jayanagar Telephone Exchange": [
+    "V2",
+    "V2K"
+  ],
+  "Carmel Convent": [
+    "V25A"
+  ],
+  "Platform Road": [
+    "V25A"
+  ],
+  "J P Nagar 24th Main 9th Cross": [
+    "V2K"
+  ],
+  "J P Nagar Kalyani Magnum": [
+    "V2K"
+  ],
+  "Goods Shed Road(City)": [
+    "VJ10"
+  ],
+  "Cottonpet Hospital": [
+    "VJ10"
+  ],
+  "Chamarajpet Police Station": [
+    "VJ10"
+  ],
+  "Uma Talkies": [
+    "VJ10"
+  ],
+  "Ganesh Bhavan": [
+    "VJ10"
+  ],
+  "Kumaraswamy Temple": [
+    "VJ10"
+  ],
+  "Hanumanthanagar": [
+    "VJ10"
+  ],
+  "Nirmala Stores": [
+    "VJ10"
+  ],
+  "Srinagar Apex Bank": [
+    "VJ10"
+  ],
+  "Nagendra Block": [
+    "VJ10"
+  ],
+  "Muneshwara Block": [
+    "VJ10"
+  ],
+  "Girinagar Cross": [
+    "VJ10"
+  ],
+  "Avalahalli BDA Park": [
+    "VJ10"
+  ]
+}
